@@ -1,5 +1,8 @@
 # ShinkansenKit
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbokunoibasho%2FShinkansenKit%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bokunoibasho/ShinkansenKit)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbokunoibasho%2FShinkansenKit%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bokunoibasho/ShinkansenKit)
+
 東海道・山陽新幹線の予約情報を Swift で扱うためのライブラリ。
 
 カレンダーに登録された EX 予約のテキストをパースして、列車種別・列車番号・乗車駅・降車駅・時刻・席種・号車・座席・人数・商品・編成といった構造化データを取り出す。
